@@ -1,2 +1,2 @@
 # myfirst-Python
-Hi
+Hi, please read ipynb files for my projects.
